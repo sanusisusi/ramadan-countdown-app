@@ -7,7 +7,7 @@ function App() {
   return (
     <div className='App'>
       <Switch>
-        <Route exact path='/' component={Ramadan} />
+        <Route exact path='/ramadan-countdown-app' component={Ramadan} />
       </Switch>
     </div>
   );
