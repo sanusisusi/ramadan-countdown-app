@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ramadan-countdown-app/precache-manifest.3a3344bca004ddc8f7dab9639218548a.js"
+  "/ramadan-countdown-app/precache-manifest.7d2ef0e690267bc8ccc6d7de5a6c883f.js"
 );
 
 self.addEventListener('message', (event) => {

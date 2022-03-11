@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eb9cd6c83ab345c37102a81fd58b5088",
+    "revision": "ed940315269ea17fcd02ebdc7075762c",
     "url": "/ramadan-countdown-app/index.html"
   },
   {
-    "revision": "e60ddc8f320d5736463f",
+    "revision": "3ddec1871b01e4558695",
     "url": "/ramadan-countdown-app/static/css/main.3ad6f247.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ramadan-countdown-app/static/js/2.729233ee.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e60ddc8f320d5736463f",
-    "url": "/ramadan-countdown-app/static/js/main.a07295b6.chunk.js"
+    "revision": "3ddec1871b01e4558695",
+    "url": "/ramadan-countdown-app/static/js/main.9c4e75e1.chunk.js"
   },
   {
     "revision": "571a4c3c0e1864f02ba9",
