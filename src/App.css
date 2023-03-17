@@ -16,7 +16,7 @@ body {
   background-color: var(--main-bg-color-dark);
   color: var(--main-text-color-dark);
   /*background-color: #1d1d1d;*/
-  background-color: whitesmoke;
+  background-color: white;
 }
 .page {
   width: 100%;
@@ -45,10 +45,12 @@ body {
   margin: 40px 0;
 }
 .countdown-box {
-  background-color: #413c69;
+  /*background-color: #413c69;*/
+  background-color: orange;
   font-size: 50px;
   font-weight: 700;
-  color: #dcd6f7;
+  /*color: #dcd6f7;*/
+  color: green;
   border-radius: 15px;
   width: 160px;
   height: 160px;
@@ -61,13 +63,15 @@ body {
 }
 .legend {
   font-size: 30px;
-  color: #a6b1e1;
+  /*color: #a6b1e1;*/
+  color: red;
 }
 .ramadanDate {
   font-size: 30px;
   font-weight: 600;
   /*color: #7f78d2;*/
-  color: var(--main-bg-color-dark);
+  /*color: var(--main-bg-color-dark);*/
+  color: orange;
 }
 .wish {
   font-size: 35px;
