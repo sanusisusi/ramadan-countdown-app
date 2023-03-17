@@ -14,8 +14,8 @@ const Ramadan = ({ name, day, month }) => {
   if (name === undefined || day === undefined || month === undefined) {
     // This is if not enough params are provided
     name = 'Sanusi'; // Name of the Person
-    month = 4; // Month of the Ramadan
-    day = 2; // Day of the Ramadan
+    month = 3; // Month of the Ramadan
+    day = 23; // Day of the Ramadan
   }
 
   // get current time
@@ -106,12 +106,12 @@ const Ramadan = ({ name, day, month }) => {
       {!isItRday && (
         <>
           <div className='ramadanDate'>
-            Ramadan Starting Date:<br/> Saturday {day} {monthRday}, {currentYear}
-            <h2 className='wish'>01-RAMADAN-1443</h2>
+            Ramadan Start On:<br/> Thursday {day} {monthRday}, {currentYear}
+            <h2 className='wish'>01-RAMADAN-1444</h2>
           </div>
           <div>
             <h2 className='wish'>Wishing All Muslim Ummah Ramadan Mubarak</h2>
-            <footer>&copy; 2022 Sanusi Abdulkadir<br/>Software Engineer (React developer)</footer>
+            <footer>&copy; 2023 Sanusi Abdulkadir<br/>Software Engineer (React developer)</footer>
           </div>
         </>
       )}
