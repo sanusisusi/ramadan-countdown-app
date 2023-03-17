@@ -5,7 +5,7 @@ const Countdown = ({ countdownData, name }) => {
     return (
       <div>
         <h1 className='heading'>
-          Countdown to Ramadan 2022
+          Countdown to Ramadan 2023
         </h1>
         <div className='countdown-wrapper'>
           <div className='countdown-box'>
